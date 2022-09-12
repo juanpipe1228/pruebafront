@@ -1,0 +1,173 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem 0 ;
+    margin: 0.3rem;
+    border: 1px solid #efefef;
+    border-radius: 0.2rem;
+    min-width: 160px;
+    text-align: center;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.089);
+    width: 220px;
+    height:auto;
+}
+
+.type-container{
+    display:flex;
+    flex-direction: column;
+    height:50px;
+    justify-content: space-between;
+}
+
+.type-container h5{
+    margin:2px
+}
+
+/* Color de fondo para cada tipo de pokemon  */
+.normal {
+    padding:0px 20px 0px 20px;
+    background: #a4acaf;
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.fighting {
+    padding:0px 20px 0px 20px;
+    background: #d56723;
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.flying {
+    padding:0px 20px 0px 20px;
+    background: linear-gradient(180deg, #3dc7ef 50%, #bdb9b8 50%);
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.poison {
+    padding:0px 20px 0px 20px;
+    background: #b97fc9;
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.ground {
+    padding:0px 20px 0px 20px;
+    background: linear-gradient(180deg, #f7de3f 50%, #ab9842 50%);
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.rock {
+    padding:0px 20px 0px 20px;
+    background: #a38c21;
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.bug {
+    padding:0px 20px 0px 20px;
+    background: #729f3f;
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.ghost {
+    padding:0px 20px 0px 20px;
+    background: #7b62a3;
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.steel {
+    padding:0px 20px 0px 20px;
+    background: #9eb7b8;
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.fire {
+    padding:0px 20px 0px 20px;
+    background: #fd7d24;
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.water {
+    padding:0px 20px 0px 20px;
+    background: #4592c4;
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.grass {
+    padding:0px 20px 0px 20px;
+    background: #9bcc50;
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.electric {
+    padding:0px 20px 0px 20px;
+    background: #eed535;
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.psychic {
+    padding:0px 20px 0px 20px;
+    background: #f366b9;
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.ice {
+    padding:0px 20px 0px 20px;
+    background: #51c4e7;
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.dragon {
+    padding:0px 20px 0px 20px;
+    background: linear-gradient(180deg, #53a4cf 50%, #f16e57 50%);
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.dark {
+    padding:0px 20px 0px 20px;
+    background: #707070;
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+.fairy {
+    padding:0px 20px 0px 20px;
+    background: #fdb9e9;
+    border: 1px solid #000;
+    border-radius:0.4rem;
+    text-align: center;
+}
+
+
